@@ -38,3 +38,16 @@ print(name, len(pd_code))
 
 This repository is a data artifact and has no runtime dependency.
 
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```bibtex
+@software{topologicalknotindexer_pd_code_list,
+  author = {{TopologicalKnotIndexer contributors}},
+  title = {{pd\_code\_list}},
+  year = {2026},
+  url = {https://github.com/TopologicalKnotIndexer/pd_code_list}
+}
+```
+
